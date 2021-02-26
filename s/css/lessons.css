@@ -1358,7 +1358,7 @@ ul.number li:hover{
     font-weight: bold;
 	}
 .pronouns{
-	background: url({{site.cssurl}}lessons/pronouns.gif) no-repeat scroll 0 3px transparent;
+	background: url({{site.cssurl}}lessons/pronouns.webp) no-repeat scroll 0 3px transparent;
 	width:135px;
 	height:135px;
 	}
@@ -1484,7 +1484,7 @@ ul.number li:hover{
     background-position: -1396px 0;
 }
 	.pronouns-second{
-				background: url({{site.cssurl}}lessons/pronouns-second.gif) no-repeat scroll 0 0 transparent;
+				background: url({{site.cssurl}}lessons/pronouns-second.webp) no-repeat scroll 0 0 transparent;
 				height: 135px;
 				width: 135px;
 				}
@@ -1501,7 +1501,7 @@ ul.number li:hover{
 				background-position:-139px -139px;
 				}
 .parts-world{
-				background: url({{site.cssurl}}lessons/parts-world.gif) no-repeat scroll 0 0 transparent;
+				background: url({{site.cssurl}}lessons/parts-world.webp) no-repeat scroll 0 0 transparent;
 				height:135px;
 				width:135px;
 				}

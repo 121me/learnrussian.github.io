@@ -157,16 +157,16 @@
 		font: 15px bold trebuchet MS;
 		}
 	.typeight .city{
-		background: url({{site.cssurl}}lessons/6/road.gif) repeat-x scroll 0 102px transparent;
+		background: url({{site.cssurl}}lessons/6/road.webp) repeat-x scroll 0 102px transparent;
 		width: 440px;
 		}
 	.typeight .city .left{
-		background: url({{site.cssurl}}lessons/6/sity-left.gif) no-repeat scroll 0 0 transparent;
+		background: url({{site.cssurl}}lessons/6/sity-left.webp) no-repeat scroll 0 0 transparent;
 		height: 230px;
 		width: 109px;
 		}
 	.typeight .city .right{
-		background: url({{site.cssurl}}lessons/6/sity-right.gif) no-repeat scroll 0 0 transparent;
+		background: url({{site.cssurl}}lessons/6/sity-right.webp) no-repeat scroll 0 0 transparent;
 		height: 230px;
 		width: 109px;
 		float: right;
@@ -592,7 +592,7 @@ background: none repeat scroll 0 0 #FFFFFF;
 }
 /* gramma tables*/
 .compass{
-	background: url({{site.cssurl}}lessons/compass.gif) no-repeat scroll 50% 50% transparent;
+	background: url({{site.cssurl}}lessons/compass.webp) no-repeat scroll 50% 50% transparent;
 	position:relative;
 	height:250px;
 	width:368px;
@@ -854,7 +854,7 @@ li.south{
 	padding:5px;
 	}
 .sity{
-	background: url({{site.cssurl}}lessons/sity.gif) no-repeat scroll 0 0 transparent;
+	background: url({{site.cssurl}}lessons/sity.webp) no-repeat scroll 0 0 transparent;
 	height: 126px;
     width: 126px;
 	}
@@ -1741,33 +1741,33 @@ img.tabir{
 	margin-left:-5px;
 	}
 #table .brace_place {
-    background: url({{site.mediaurl}}/s/css/tables/brace.gif) no-repeat scroll center top transparent;
+    background: url({{site.mediaurl}}/s/css/tables/brace.webp) no-repeat scroll center top transparent;
 	display: block;
     margin: 0 10px;
 	padding-top:20px;
 	}
 #table .brace_l{
-	background: url({{site.mediaurl}}/s/css/tables/brace_l.gif) no-repeat scroll 0 10px transparent;
+	background: url({{site.mediaurl}}/s/css/tables/brace_l.webp) no-repeat scroll 0 10px transparent;
 	text-align: center;
     width: 100%;	
 	margin-bottom:20px;
 	padding-top:10px;
 	}
 #table .brace_r{
-	background: url({{site.mediaurl}}/s/css/tables/brace_r.gif) no-repeat scroll 100% 0 transparent;
+	background: url({{site.mediaurl}}/s/css/tables/brace_r.webp) no-repeat scroll 100% 0 transparent;
 	}
 #table .braceu{
-	background: url({{site.mediaurl}}/s/css/tables/braceu.gif) no-repeat scroll 50% 100% transparent;
+	background: url({{site.mediaurl}}/s/css/tables/braceu.webp) no-repeat scroll 50% 100% transparent;
 	display:block;
 	padding-bottom:20px;
 	margin:0 10px;
 	}
 #table .braceu_l{
-	background: url({{site.mediaurl}}/s/css/tables/braceu_l.gif) no-repeat scroll 0 100% transparent;
+	background: url({{site.mediaurl}}/s/css/tables/braceu_l.webp) no-repeat scroll 0 100% transparent;
 	margin-top:20px;
 	}
 #table .braceu_r{
-	background: url({{site.mediaurl}}/s/css/tables/braceu_r.gif) no-repeat 100% 100% transparent;
+	background: url({{site.mediaurl}}/s/css/tables/braceu_r.webp) no-repeat 100% 100% transparent;
 	}
 #table .brace_r_u{	
 	background: url({{site.mediaurl}}/s/css/tables/brace_r_u.webp) no-repeat scroll 100% 0 transparent;
@@ -3075,10 +3075,10 @@ img.tabir{
 	width:286px;
 	background-position:0 0;
 	background-repeat:no-repeat;
-	background-image:url({{site.mediaurl}}/s/css/tables/male.gif);
+	background-image:url({{site.mediaurl}}/s/css/tables/male.webp);
 	}
 .t25 .lesson  div.l+ div.l{
-	background-image:url({{site.mediaurl}}/s/css/tables/female.gif);
+	background-image:url({{site.mediaurl}}/s/css/tables/female.webp);
 	}
 .t25 .lesson p.l.lhrgr, .t25 .lesson ul.l{	
 	width: 138px;

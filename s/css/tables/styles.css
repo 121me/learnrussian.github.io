@@ -169,7 +169,7 @@ layout:
 .braceu tr td {background:url({{site.mediaurl}}/s/css/tables/braceu_r.gif) 100% 0 no-repeat; padding-top:15px;}
 .braceu tr td:first-child {background:url({{site.mediaurl}}/s/css/tables/braceu_l.gif) 0 0 no-repeat;}
 .braceu tr td.braceu_place {background:url({{site.mediaurl}}/s/css/tables/braceu.gif) center top no-repeat; text-align:center;}
-.vbrace_place {background:url({{site.mediaurl}}/s/css/tables/brace.webp) left center no-repeat; padding-left:15px;}
+.vbrace_place {background:url({{site.mediaurl}}/s/css/tables/vbrace.webp) left center no-repeat; padding-left:15px;}
 .vbrace_u {background:url({{site.mediaurl}}/s/css/tables/brace_u.webp) left top no-repeat;}
 .vbrace_d {background:url({{site.mediaurl}}/s/css/tables/brace_d.webp) left bottom no-repeat;}
 .vlbrace_place {background:url({{site.mediaurl}}/s/css/tables/lbrace.webp) right center no-repeat; padding-left:15px;}
